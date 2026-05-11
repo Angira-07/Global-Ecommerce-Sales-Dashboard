@@ -4,12 +4,25 @@
 ---
 
 ## 📊 Dashboard Preview
- 
-### Page 1 — Sales Overview
+
+<table>
+  <tr>
+    <td align="center">
+      <h3>Page 1 — Sales Overview</h3>
+      <img src="https://github.com/user-attachments/assets/6c942c34-397d-4cf4-9a50-80d18396e3e4" width="100%" />
+    </td>
+    <td align="center">
+      <h3>Page 2 — Profitability & Operations</h3>
+      <img src="https://github.com/user-attachments/assets/e7654ad4-0bc6-410d-a744-a249d25413b3" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<!--### Page 1 — Sales Overview
 ![Angira_Global Ecommerce Sales Report_page-0001](https://github.com/user-attachments/assets/6c942c34-397d-4cf4-9a50-80d18396e3e4)
  
 ### Page 2 — Profitability & Operations
-![Angira_Global Ecommerce Sales Report_page-0002](https://github.com/user-attachments/assets/0abcb55a-308e-4796-a6a1-1a48fe1fe8fd)
+![Angira_Global Ecommerce Sales Report_page-0002](https://github.com/user-attachments/assets/0abcb55a-308e-4796-a6a1-1a48fe1fe8fd)-->
  
 ---
 
